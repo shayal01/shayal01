@@ -18,6 +18,8 @@ Here are some of the technical skills I bring to the table:
 
 **Version control: Git, GitHub**
 
+**Front-end: CSS,JavaScript,HTML**
+
 ## 📫 How to reach me: ...
 If you're interested in collaborating on a project or just want to chat about deep learning, AI, or signal processing, feel free to reach out to me on GitHub or via email at [shayal2009@gmail.com].
 
