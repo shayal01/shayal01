@@ -3,7 +3,7 @@
 I'm Shayal
 
 ## Education
-I am pursuing a Master's degree in Computer Engineering from Arizona State University (ASU), where I am gaining experience in a range of programming languages including Python, C/C++, and MATLAB. I also completed coursework in advanced topics such as machine learning, neural networks, and digital signal processing.
+I earned a Master's degree in Computer Engineering from Arizona State University (ASU), where I gained proficiency in various programming languagess. My coursework included advanced topics like machine learning, neural networks, and digital signal processing.
 
 ## Skills
 Here are some of the technical skills I bring to the table:
@@ -20,6 +20,7 @@ Here are some of the technical skills I bring to the table:
 
 **Front-end: CSS,JavaScript,HTML**
 
+Additionally, I am well-versed in **Linux systems** and comfortable working with **macOS and Windows**. I excel in **bash scripting** and have acquired certification in [Natural Language Processing (NLP)](https://www.coursera.org/account/accomplishments/certificate/BN6KA6TZNYT3) and [Generative AI](https://www.coursera.org/account/accomplishments/certificate/Y5V6KAQEVHXB) through coursera courses.
 ## 📫 How to reach me: ...
 If you're interested in collaborating on a project or just want to chat about deep learning, AI, or signal processing, feel free to reach out to me on GitHub or via email at [shayal2009@gmail.com].
 
